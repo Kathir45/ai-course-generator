@@ -2,7 +2,7 @@ export default [
     {
         id:1,
         name:'programming',
-        icon:'https://img.icons8.com/color/512/python.png',
+        icon:'https://png.pngtree.com/png-vector/20221003/ourmid/pngtree-coding-monitor-programming-logo-vector-png-image_49084576.jpg',
         prompt:''
     },
     {
@@ -13,14 +13,20 @@ export default [
     },
     {
         id:3,
-        name:'creative',
+        name:'Creative',
         icon:'https://png.pngtree.com/png-vector/20230428/ourmid/pngtree-creativity-line-icon-vector-png-image_6740080.png',
         promp:''
     },
     {
         id:4,
         name:'Electrical',
-        icon:'https://png.pngtree.com/png-vector/20230428/ourmid/pngtree-creativity-line-icon-vector-png-image_6740080.png',
+        icon:'https://media.istockphoto.com/id/1032150246/vector/power-lightning-logo-icon-vector-electric-fast-thunder-bolt-symbol-isolated-on-transparent.jpg?s=612x612&w=0&k=20&c=ORk2SVJ7I1h0lAjtZmXWaOmdklIRQh245j4NxQsvKf8=',
+        promp:''
+    },
+    {
+        id:5,
+        name:'Designing',
+        icon:'https://appinventiv.com/wp-content/uploads/2017/11/banner-A-Beginner%E2%80%99s-Guide-to-Designing-Minimal-Apps-01.png',
         promp:''
     },
 ]

@@ -22,7 +22,7 @@ const CourseStart = ({ params }) => {
       .select()
       .from(CourseList)
       .where(eq(CourseList?.courseId, params?.courseId));
-    console.log(result + "kathir");
+   // console.log(result + "kathir");
     setCourse(result[0]);
 
     // setSelectedChapter(result[0]?.courseOutput?.course?.chapters[0]); 
