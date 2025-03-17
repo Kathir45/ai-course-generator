@@ -65,7 +65,7 @@ An AI-powered platform for creating and managing online courses. Built using **N
 - **Clone the repository**
 
    ```bash
-    git clone https://github.com/mrpankajpandey/ai-course-generator.git
+    git clone [https://github.com/Kathir45/ai-course-generator.git](https://github.com/Kathir45/ai-course-generator.git)
    ```
 - **Navigate to the project directory**
 
@@ -95,7 +95,7 @@ An AI-powered platform for creating and managing online courses. Built using **N
 
 ## Live Demo :globe_with_meridians:
 
-<a href="https://mrpankajpandey-ai-course.vercel.app/">
+<a href="https://ai-course-generator-jh.vercel.app/">
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
 </a>
 
