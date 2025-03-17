@@ -2,19 +2,25 @@ export default [
     {
         id:1,
         name:'programming',
-        icon:'',
+        icon:'https://img.icons8.com/color/512/python.png',
         prompt:''
     },
     {
         id:2,
         name:'Health',
-        icon:'',
+        icon:'https://static.thenounproject.com/png/1236334-200.png',
         promp:''
     },
     {
         id:3,
         name:'creative',
-        icon:'',
+        icon:'https://png.pngtree.com/png-vector/20230428/ourmid/pngtree-creativity-line-icon-vector-png-image_6740080.png',
+        promp:''
+    },
+    {
+        id:4,
+        name:'Electrical',
+        icon:'https://png.pngtree.com/png-vector/20230428/ourmid/pngtree-creativity-line-icon-vector-png-image_6740080.png',
         promp:''
     },
 ]

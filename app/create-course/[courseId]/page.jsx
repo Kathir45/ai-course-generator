@@ -63,6 +63,7 @@ const courseLayout = ({ params }) => {
   const GenerateChapterContent = async () => {
     if (!course?.courseId || !course?.courseOutput?.course?.chapters) {
       // toast.error("Course or chapters are missing. Cannot generate content.");
+      console.log("cannot generate course content");
       return;
     }
     setLoading(true);
@@ -102,7 +103,7 @@ const courseLayout = ({ params }) => {
         await db.update(CourseList).set({
           publish:true
         })
-        //router.replace('/create-course/'+course?.courseId+'/finish')
+        router.replace('/create-course/'+course?.courseId+'/finish')
       // }
     });
   };

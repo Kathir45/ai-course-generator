@@ -159,3 +159,4 @@ Once approved, your pull request will be merged into the main branch. Congratula
 >[!TIP]
 >**Follow [CONTRIBUTING.md](https://github.com/mrpankajpandey/ai-course-generator/blob/main/CONTRIBUTING.md) for detailed guidelines**
 
+ai-course-generator-jh.vercel.app
